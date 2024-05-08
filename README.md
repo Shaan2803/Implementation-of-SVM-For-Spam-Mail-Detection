@@ -9,9 +9,13 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 1.import neccessary libraries required.
+
 2.Load the dataset using pd.read_csv.
+
 3.Use CountVectorizer to convert text data into a matrix of token counts.
+
 4.Create an SVM model with a linear kernel.
+
 5.print the accuracy and classification report. 
 
 ## Program:
